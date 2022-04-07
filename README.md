@@ -1,1 +1,1 @@
-# earthquakes_mapping
+# Earthquakes_tracer
